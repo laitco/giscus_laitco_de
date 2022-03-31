@@ -1,7 +1,3 @@
 {
-  "origins": [
-    "https://laitco.de",
-    "https://www..laitco.de",
-    "https://www-dev..laitco.de"
-  ]
+  "origins": ["https://giscus.app"]
 }
