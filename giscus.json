@@ -1,3 +1,4 @@
 {
-  "origins": ["https://www.laitco.de"]
+  "origins": ["https://www.laitco.de",
+             "https://www-dev.laitco.de"]
 }
